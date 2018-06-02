@@ -1,2 +1,2 @@
 # git-commands
-to know about git
+to know about git commands
